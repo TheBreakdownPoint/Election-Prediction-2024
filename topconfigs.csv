@@ -1,5 +1,5 @@
 Description,Config 1,Config 2,Config 3,Config 4,Config 5,Config 6,Config 7,Config 8,Config 9,Config 10
-Count,578,552,471,464,441,435,412,407,392,388
+Count,613,527,495,453,450,419,412,409,383,375
 AK,R,R,R,R,R,R,R,R,R,R
 AL,R,R,R,R,R,R,R,R,R,R
 AR,R,R,R,R,R,R,R,R,R,R
@@ -24,7 +24,7 @@ MD,D,D,D,D,D,D,D,D,D,D
 ME,D,D,D,D,D,D,D,D,D,D
 ME-1,D,D,D,D,D,D,D,D,D,D
 ME-2,R,R,R,R,R,R,R,R,R,R
-MI,R,D,R,D,D,D,D,D,D,R
+MI,R,D,D,R,D,D,D,D,D,R
 MN,D,D,D,D,D,D,D,D,D,D
 MO,R,R,R,R,R,R,R,R,R,R
 MS,R,R,R,R,R,R,R,R,R,R
@@ -38,12 +38,12 @@ NE-3,R,R,R,R,R,R,R,R,R,R
 NH,D,D,D,D,D,D,D,D,D,D
 NJ,D,D,D,D,D,D,D,D,D,D
 NM,D,D,D,D,D,D,D,D,D,D
-NV,R,R,D,D,D,D,R,R,D,R
+NV,R,R,D,D,D,D,R,D,R,R
 NY,D,D,D,D,D,D,D,D,D,D
 OH,R,R,R,R,R,R,R,R,R,R
 OK,R,R,R,R,R,R,R,R,R,R
 OR,D,D,D,D,D,D,D,D,D,D
-PA,R,R,R,R,D,D,R,D,R,R
+PA,R,R,R,R,D,R,R,D,D,R
 RI,D,D,D,D,D,D,D,D,D,D
 SC,R,R,R,R,R,R,R,R,R,R
 SD,R,R,R,R,R,R,R,R,R,R
@@ -53,6 +53,6 @@ UT,R,R,R,R,R,R,R,R,R,R
 VA,D,D,D,D,D,D,D,D,D,D
 VT,D,D,D,D,D,D,D,D,D,D
 WA,D,D,D,D,D,D,D,D,D,D
-WI,R,R,R,R,R,D,D,R,D,D
+WI,R,R,R,R,R,D,D,D,R,D
 WV,R,R,R,R,R,R,R,R,R,R
 WY,R,R,R,R,R,R,R,R,R,R
